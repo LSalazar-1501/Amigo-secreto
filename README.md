@@ -8,3 +8,5 @@ Agregar un nuevo participante reinicia el juego
 Un vez agregado el participante no se puede eliminar
 
 El juego se termina una vez se han sorteados todos los participantes
+
+Para un nuevo juego presionar F5
